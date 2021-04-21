@@ -1,2 +1,2 @@
 ## Analisis-de-datos-social
-Repositorio del proyecto de la materia de análisis de datos social
+Proyecto de análisis de redes y texto de un conjunto de cuentas de Twitter
