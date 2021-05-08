@@ -1,2 +1,2 @@
 ## Analisis-de-datos-social
-Proyecto de análisis de redes y texto de un conjunto de cuentas de Twitter
+Proyecto de análisis de redes y semántico de un conjunto de cuentas de Twitter
